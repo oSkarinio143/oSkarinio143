@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 😉Jestem Oskar<br>- 📅Mam 20 lat<br>- 📚Uczę się programowania w java<br>- 💼Rozwijam projekt w tym języku</p>
+<p align="left">- 😉Oskar<br>- 📅20 lat<br>- 📚Uczę się programowania w java<br>- 💼Buduje projekt w tym języku</p>
 
 ###
 
